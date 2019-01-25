@@ -1,6 +1,6 @@
 # Cuestión Pública recupera 1883 tuits de la cuenta @EquipoPazGob (TweetsEquipoPazGob)
 
-<p>El contenido original de la cuenta @EquipoPazGob desapareció de Twitter durante el gobierno Duque. Cuestión Pública y el científico de datos [Esteban Ponce de León](https://github.com/estebanpdl) recuperan parte de la memoria digital de la cuenta que registró las negociaciones entre el Estado colombiano y la entonces guerrilla de las Farc y libera 1883 mensajes publicados por @EquipoPazGob entre 2016 y 2018. </p> 
+<p>El contenido original de la cuenta @EquipoPazGob desapareció de Twitter durante el gobierno Duque. Cuestión Pública y el científico de datos <a href='Esteban Ponce de León'>https://github.com/estebanpdl</a>recuperan parte de la memoria digital de la cuenta que registró las negociaciones entre el Estado colombiano y la entonces guerrilla de las Farc y libera 1883 mensajes publicados por @EquipoPazGob entre 2016 y 2018. </p> 
 
 
 # Archivos liberados por Cuestión Pública:
