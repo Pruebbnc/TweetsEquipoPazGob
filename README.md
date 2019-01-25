@@ -3,7 +3,7 @@
 <p>El contenido original de la cuenta @EquipoPazGob desapareció de Twitter durante el gobierno Duque. Cuestión Pública y el científico de datos [Esteban Ponce de León](https://github.com/estebanpdl)recuperan parte de la memoria digital de la cuenta que registró las negociaciones entre el Estado colombiano y la entonces guerrilla de las Farc y libera 1883 mensajes publicados por @EquipoPazGob entre 2016 y 2018. </p> 
 
 
-# Documentos liberados por Cuestión Pública:
+# Archivos liberados por Cuestión Pública:
 
 - Tuits publicados por la cuenta original @EquipoPazGob entre el 17 de agosto 2016 al 31 de julio 2018 en formato excel y csv Descargar aquí en formato csv. Descargar aquí en formato excel. 
 Contiene 1883 registros con el tuit ID, la fecha de publicación, mensaje del tuit, número de retuits y número de favoritos por tuit. 
