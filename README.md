@@ -5,7 +5,7 @@
 
 # Archivos liberados por Cuestión Pública:
 
-- Tuits publicados por la cuenta original @EquipoPazGob entre el 17 de agosto 2016 al 31 de julio 2018 en formato excel y csv. Contiene 1883 registros con el tuit ID, la fecha de publicación, mensaje del tuit, número de retuits y número de favoritos por tuit.
+- Tuits publicados por la cuenta original @EquipoPazGob entre el 11 de noviembre 2015 al 2 de agosto 2018 en formato excel y csv. Contiene 1883 registros con el tuit ID, la fecha de publicación, mensaje del tuit, número de retuits y número de favoritos por tuit.
 
 		| Archivo            | Tipo de archivo |
 		| ------------------ |:---------------:|
